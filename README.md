@@ -16,7 +16,7 @@ API documentation will  be available here //swagger link
 
 Run the AutoBuildTest.bat file to execute the application
 
-##Code Metrics
+## Code Metrics
 
 Maximum cyclomatic complexity per function:
 

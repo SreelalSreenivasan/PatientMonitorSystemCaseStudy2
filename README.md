@@ -12,15 +12,17 @@ Client 2: Acts as monitor interface which displays the vitals and alerts from th
 
 Clone this repo to your local machine using https://github.com/SreelalSreenivasan/PatientMonitorSystemCaseStudy2.git
 
-API documentation will  be available here //swagger link
+API documentation will  be available here : http://localhost:59372/swagger/sample/swagger.json
 
 Run the AutoBuildTest.bat file to execute the application
 
 ## Code Metrics
 
-Maximum cyclomatic complexity per function:
+Maximum cyclomatic complexity per function: 3
 
-Code coverage:
+Minimum Maintainability Index per project: 80 
 
-Code Duplication details available in the batch file
+Code coverage: 96 %
+
+Code Duplication details available in the batch file. Please update the path of your simian.exe in the batch file.
 

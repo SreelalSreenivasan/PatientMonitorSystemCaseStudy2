@@ -15,9 +15,9 @@ echo Executing batch file
 
 devenv "%BAT_PATH%\PatientMonitorServerAPI.sln" /build Debug 
 pause
-mstest.exe /testcontainer:"%BAT_PATH%JsonFormatValidatorLib.Tests\bin\Debug\JsonFormatValidatorLib.Tests.dll" /test:Given_ValidJsonString_When_IsValidFormatInvoked_Expected_True /Test:Given_InvalidJsonString_When_IsValidFormatInvoked_Expected_False
+#call "C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\MSTest.exe" /testcontainer:"%BAT_PATH%JsonFormatValidatorLib.Tests\bin\Debug\JsonFormatValidatorLib.Tests.dll" /test:Given_ValidJsonString_When_IsValidFormatInvoked_Expected_True /Test:Given_InvalidJsonString_When_IsValidFormatInvoked_Expected_False
 
-mstest /TestContainer:"%BAT_PATH%PatientSpo2ValidatorLib.Tests\bin\Debug\PatientSpo2ValidatorLib.Tests.dll" /Test:Given_ValidSpo2Value_When_PatientSpo2Validator_Invoked_FalseExpected /Test:Given_PositiveInvalidSpo2Value_When_PatientSpo2Validator_Invoked_TrueExpected
+MSTest /TestContainer:"%BAT_PATH%PatientSpo2ValidatorLib.Tests\bin\Debug\PatientSpo2ValidatorLib.Tests.dll" /Test:Given_ValidSpo2Value_When_PatientSpo2Validator_Invoked_FalseExpected /Test:Given_PositiveInvalidSpo2Value_When_PatientSpo2Validator_Invoked_TrueExpected
 /Test:Given_NegativeInvalidSpo2Value_When_PatientSpo2Validator_Invoked_TrueExpected
 
 mstest /TestContainer:"%BAT_PATH%PatientTemperatureValidatorLib.Tests\bin\Debug\PatientTemperatureValidatorLib.Tests.dll" /Test:Given_ValidTemperatureValue_When_PatientTemperatureValidator_Invoked_FalseExpected /Test:Given_PositiveInvalidTemperatureValue_When_PatientTemperatureValidator_Invoked_TrueExpected

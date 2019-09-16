@@ -22,7 +22,7 @@ Maximum cyclomatic complexity per function: 3
 
 Minimum Maintainability Index per project: 80 
 
-Code coverage: 96 %
+Code coverage: 100 %
 
 Code Duplication details available in the batch file. Please update the path of your simian.exe in the batch file.
 

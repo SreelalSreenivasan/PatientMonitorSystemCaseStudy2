@@ -7,6 +7,12 @@ namespace PatientSpo2ValidatorLib
     {
         private const decimal Spo2Max = 100;
         private const decimal Spo2Min = 91;
+        /// <summary>
+        /// validates the given Spo2
+        /// </summary>
+        /// <typeparam name="TDecimal"></typeparam>
+        /// <param name="parameter"></param>
+        /// <returns></returns>
         public bool ParameterValidate<TDecimal>(TDecimal parameter)
         {
             decimal spo2 = Convert.ToDecimal(parameter);

@@ -12794,23 +12794,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\320067390\\.nuget\\packages\\": {},
+    "C:\\Users\\320052122\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientMonitorServerAPI\\PatientMonitorServerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientMonitorServerAPI\\PatientMonitorServerAPI.csproj",
       "projectName": "PatientMonitorServerAPI",
-      "projectPath": "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientMonitorServerAPI\\PatientMonitorServerAPI.csproj",
-      "packagesPath": "C:\\Users\\320067390\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientMonitorServerAPI\\obj\\",
+      "projectPath": "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientMonitorServerAPI\\PatientMonitorServerAPI.csproj",
+      "packagesPath": "C:\\Users\\320052122\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientMonitorServerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\320067390\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\320052122\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12823,29 +12823,29 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\JsonFormatValidatorLib\\JsonFormatValidatorLib.csproj": {
-              "projectPath": "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\JsonFormatValidatorLib\\JsonFormatValidatorLib.csproj"
+            "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\JsonFormatValidatorLib\\JsonFormatValidatorLib.csproj": {
+              "projectPath": "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\JsonFormatValidatorLib\\JsonFormatValidatorLib.csproj"
             },
-            "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\JsonPatientDataExtractorLib\\JsonPatientDataExtractorLib.csproj": {
-              "projectPath": "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\JsonPatientDataExtractorLib\\JsonPatientDataExtractorLib.csproj"
+            "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\JsonPatientDataExtractorLib\\JsonPatientDataExtractorLib.csproj": {
+              "projectPath": "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\JsonPatientDataExtractorLib\\JsonPatientDataExtractorLib.csproj"
             },
-            "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientDataExtractorContractsLib\\PatientDataExtractorContractsLib.csproj": {
-              "projectPath": "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientDataExtractorContractsLib\\PatientDataExtractorContractsLib.csproj"
+            "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientDataExtractorContractsLib\\PatientDataExtractorContractsLib.csproj": {
+              "projectPath": "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientDataExtractorContractsLib\\PatientDataExtractorContractsLib.csproj"
             },
-            "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientDataFormatValidatorContractsLib\\PatientDataFormatValidatorContractsLib.csproj": {
-              "projectPath": "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientDataFormatValidatorContractsLib\\PatientDataFormatValidatorContractsLib.csproj"
+            "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientDataFormatValidatorContractsLib\\PatientDataFormatValidatorContractsLib.csproj": {
+              "projectPath": "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientDataFormatValidatorContractsLib\\PatientDataFormatValidatorContractsLib.csproj"
             },
-            "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientDataParameterValidatorContractsLib\\PatientDataParameterValidatorContractsLib.csproj": {
-              "projectPath": "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientDataParameterValidatorContractsLib\\PatientDataParameterValidatorContractsLib.csproj"
+            "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientDataParameterValidatorContractsLib\\PatientDataParameterValidatorContractsLib.csproj": {
+              "projectPath": "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientDataParameterValidatorContractsLib\\PatientDataParameterValidatorContractsLib.csproj"
             },
-            "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientPulseRateValidatorLib\\PatientPulseRateValidatorLib.csproj": {
-              "projectPath": "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientPulseRateValidatorLib\\PatientPulseRateValidatorLib.csproj"
+            "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientPulseRateValidatorLib\\PatientPulseRateValidatorLib.csproj": {
+              "projectPath": "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientPulseRateValidatorLib\\PatientPulseRateValidatorLib.csproj"
             },
-            "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientSpo2ValidatorLib\\PatientSpo2ValidatorLib.csproj": {
-              "projectPath": "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientSpo2ValidatorLib\\PatientSpo2ValidatorLib.csproj"
+            "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientSpo2ValidatorLib\\PatientSpo2ValidatorLib.csproj": {
+              "projectPath": "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientSpo2ValidatorLib\\PatientSpo2ValidatorLib.csproj"
             },
-            "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientTemperatureValidatorLib\\PatientTemperatureValidatorLib.csproj": {
-              "projectPath": "C:\\Users\\320067390\\Music\\PatientMonitorServerApi2\\PatientMonitorServerApi\\PatientTemperatureValidatorLib\\PatientTemperatureValidatorLib.csproj"
+            "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientTemperatureValidatorLib\\PatientTemperatureValidatorLib.csproj": {
+              "projectPath": "C:\\Users\\320052122\\Desktop\\PatientMonitorSystemCaseStudy2\\PatientMonitorSystemCaseStudy2\\PatientMonitorServerApi\\PatientTemperatureValidatorLib\\PatientTemperatureValidatorLib.csproj"
             }
           }
         }

@@ -19,21 +19,7 @@ namespace JsonFormatValidatorLib
                 return false;
             }
 
-            //if ((patData.StartsWith("{") && patData.EndsWith("}")))
-            //{
-            //    try
-            //    {
-            //        var patObj = JToken.Parse(patData);
-            //        return true;
-            //    }
-            //    catch (Exception ex)
-            //    {
-            //        Console.WriteLine(ex.ToString());
-            //        return false;
-            //    }
-            //}
-
-            //return false;
+            
         }
     }
 }

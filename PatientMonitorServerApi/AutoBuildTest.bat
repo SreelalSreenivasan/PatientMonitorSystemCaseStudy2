@@ -41,6 +41,8 @@ mstest /TestContainer:"%BAT_PATH%PatientTemperatureValidatorLib.Tests\bin\Debug\
 
 mstest /TestContainer:"%BAT_PATH%PatientPulseRateValidatorLib.Tests\bin\Debug\PatientPulseRateValidatorLib.Tests.dll" /Test:Given_ValidPulseRateValue_When_PatientPulseRateValidator_Invoked_FalseExpected /Test:Given_PositiveInvalidPulseRateValue_When_PatientPulseRateValidator_Invoked_TrueExpected
 /Test:Given_NegativeInvalidPulseRateValue_When_PatientPulseRateValidator_Invoked_TrueExpected
+
+mstest /TestContainer:"%BAT_PATH%JsonPatientDataExtractorLib.Tests\bin\Debug\JsonPatientDataExtractorLib.Tests.dll" /Test:Given_ValidJsonString_When_PatientDataExtractorInvoked_Expected_PatientDataObject 
  
 
 pause
